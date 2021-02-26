@@ -345,7 +345,7 @@ Xml=1
 [Database]
 ;0=ORACLE;ADO=ARA;Provider=MSDAORA.1;Password=ACIDKEY;User ID=ARA;Persist Security Info=True;
 ;0=ORACLE;ADO;Provider=MSDAORA.1;Password=demo;User ID=demo;Data Source=demo;Persist Security Info=True
-0=(OTHER);HTTP=REAL;VERB=POST;TYPE=TSV;ENCODE=1;URL=http://www.sems45.or.kr:8080/edms_sqlEncode.jsp
+0=(OTHER);HTTP=REAL;VERB=POST;TYPE=UTF-8;ENCODE=1;URL=http://ecodata.iptime.org:8081/edms_sqlEncode.jsp;
 ;0=(OTHER);ADO=LOCAL1;Provider=MSDAORA.1;Password=ACIDKEY;User ID=ARA;Data Source=BISANSERVER;Persist Security Info=True
 ;0=(OTHER);HTTP=REAL;VERB=POST;TYPE=TSV;ENCODE=1;URL=http://sodac.nier.go.kr/mb/newsqlEncode.jsp
 ;0=(OTHER);HTTP=REALDEMO;VERB=POST;TYPE=TSV;ENCODE=1;URL=http://sodac.nier.go.kr/mb/newsqlEncode.jsp
