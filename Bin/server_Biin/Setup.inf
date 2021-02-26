@@ -1,0 +1,17 @@
+[Setup]
+HomeDir=C:\nier\edms
+
+[Program]
+{HomeDir}\Bin\MyBuilderControl.inf=1995902;20111116:171558
+{HomeDir}\Bin\MyBuilderControl.dll=4214784;6.2.2011.1111
+{HomeDir}\Bin\MyBuilderChart.inf=994320;20090529:090000
+{HomeDir}\Bin\MyBuilderChart.dll=2306048;5.0.1.0
+{HomeDir}\Bin\MyBuilderServer.exe=317576;6.2.1.7
+{HomeDir}\Bin\MyBuilderServer.inf=317576;20111116:171558
+{HomeDir}\Bin\ezbar32.dll=81920;3.10.0.5
+{HomeDir}\Bin\ezbar32.inf=35934;20110907:133826
+{HomeDir}\Bin\CodeLib.dll=217088;1.0.1.2
+{HomeDir}\Bin\CodeLib.inf=116005;20101216:220809
+{HomeDir}\Bin\QRCode.dll=2269184;1.0.0.1
+{HomeDir}\Bin\QRCode.inf=544129;20101122:170302
+{HomeDir}\Bin\Icon.bmp=159798;20100625:141206

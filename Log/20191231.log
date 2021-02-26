@@ -1,0 +1,22 @@
+09:45:01 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '11'
+09:45:16 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '12'
+09:46:21 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '20'
+09:50:18 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '30'
+09:54:28 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '40'
+09:55:06 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '50'
+09:55:39 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '60'
+09:55:39 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '70'
+09:56:37 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '81'
+09:56:37 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and (PNO = '80' or PNO = '82')
+09:56:37 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '82'
+10:05:53 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '81'
+10:05:53 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and (PNO = '80' or PNO = '82')
+10:05:53 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '1' and PNO = '82'
+10:14:23 (:192.168.0.14) 0 update AA_RPT0701 set CAT_CYL = '연 1회', USER_ID = 'JW', UPD_DATE = SYSDATE, DENST = '200', TOT_TIME = '8000', TOT_MATR = '100' where 1 = 1 and RPT_YY = '2019' and BIZ_CD = '999' and FAC_SEQ = '1'
+10:14:23 (:192.168.0.14) 0 update AA_RPT0701 set CAT_CYL = '연 1회', USER_ID = 'JW', UPD_DATE = SYSDATE, DENST = '150', TOT_TIME = '8000', TOT_MATR = '100' where 1 = 1 and RPT_YY = '2019' and BIZ_CD = '999' and FAC_SEQ = '2'
+10:14:24 (:192.168.0.14) 0 update AA_RPT0701 set CAT_CYL = '연 1회', USER_ID = 'JW', UPD_DATE = SYSDATE, DENST = '140', TOT_TIME = '4000', TOT_MATR = '100' where 1 = 1 and RPT_YY = '2019' and BIZ_CD = '999' and FAC_SEQ = '3'
+10:14:24 (:192.168.0.14) 0 update AA_RPT0701 set CAT_CYL = '연 1회', USER_ID = 'JW', UPD_DATE = SYSDATE, DENST = '200', TOT_TIME = '4000', TOT_MATR = '100' where 1 = 1 and RPT_YY = '2019' and BIZ_CD = '999' and FAC_SEQ = '4'
+10:14:25 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '3' and PNO = '90'
+10:14:27 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '3' and PNO = '111'
+10:14:28 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '3' and (PNO = '110' or PNO = '112')
+10:14:28 (:192.168.0.14) 0 update AA_PROGRESS set STAT = 'E' where 1 = 1 and BIZ_CD = '999' and RPT = '3' and PNO = '112'

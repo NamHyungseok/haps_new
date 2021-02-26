@@ -1,0 +1,6 @@
+[Setup]
+HomeDir=C:\nier\edms2
+
+[Program]
+{HomeDir}\Bin\MyBuilderCore.inf
+{HomeDir}\Bin\MyBuilderCore.dll
